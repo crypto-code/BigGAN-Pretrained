@@ -50,3 +50,8 @@ The Valid parameters are:
 - Valid image size: 128, 256, 512
 - Valid class label: 0~999
 - Valid truncation: 0.02~1.0
+
+# G00D LUCK
+
+For doubts email me at:
+atinsaki@gmail.com
