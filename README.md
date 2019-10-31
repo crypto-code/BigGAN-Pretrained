@@ -38,10 +38,10 @@ The following dependencies will be installed:
 To run the code, download the pretrained weights first.
 
 ```shell 
-python demo.py -w <PRETRAINED_WEIGHT_PATH> [-s IMAGE_SIZE] [-c CLASS_LABEL] [-t TRUNCATION] 
-python demo.py -w ./biggan512-release.pt -s 512 -t 0.3 -c 156 
-python demo.py -w ./biggan256-release.pt -s 256 -t 0.02 -c 11 
-python demo.py --pretrained_weight ./biggan128-release.pt --size 128 --truncation 0.2 --class_label 821 
+python genrate.py -w <PRETRAINED_WEIGHT_PATH> [-s IMAGE_SIZE] [-c CLASS_LABEL] [-t TRUNCATION] 
+python genrate.py -w ./biggan512-release.pt -s 512 -t 0.3 -c 156 
+python genrate.py -w ./biggan256-release.pt -s 256 -t 0.02 -c 11 
+python genrate.py --pretrained_weight ./biggan128-release.pt --size 128 --truncation 0.2 --class_label 821 
 ``` 
 The Valid parameters are:
 - Valid image size: 128, 256, 512
