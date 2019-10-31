@@ -13,6 +13,7 @@ This includes GAN models with:
 - More model parameters (e.g. more feature maps).
 - Larger Batch Sizes
 - Architectural changes
+
 For more info refer to [paper](https://arxiv.org/abs/1809.11096)
 
 # Download Pretrained Weights 
