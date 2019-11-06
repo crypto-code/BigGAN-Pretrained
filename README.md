@@ -37,19 +37,37 @@ The following dependencies will be installed:
 # Usage
 To run the code, download the pretrained weights first.
 
-```shell 
-python genrate.py -w <PRETRAINED_WEIGHT_PATH> [-s IMAGE_SIZE] [-c CLASS_LABEL] [-t TRUNCATION] 
+```
+python generate.py -w <PRETRAINED_WEIGHT_PATH> [-s IMAGE_SIZE] [-c CLASS_LABEL] [-t TRUNCATION] [-o OUTPUT_FILE] 
 ```
 
 For example:
 ```
-python genrate.py -w ./biggan512-release.pt -s 512 -t 0.3 -c 156 
-python genrate.py -w ./biggan256-release.pt -s 256 -t 0.02 -c 11 
+python generate.py -w ./biggan512-release.pt -s 512 -t 0.3 -c 156 
+python generate.py -w ./biggan256-release.pt -s 256 -t 0.02 -c 11 -o output
 ``` 
 The Valid parameters are:
 - Valid image size: 128, 256, 512
 - Valid class label: 0~999
 - Valid truncation: 0.02~1.0
+
+## Examples
+<p align="center">
+<img src="https://github.com/crypto-code/BigGAN-Pretrained/blob/master/assets/156.jpg" width="200" height="200" align="middle" />  </p>
+<p align="center">Class 156</p>
+
+<p align="center">
+<img src="https://github.com/crypto-code/BigGAN-Pretrained/blob/master/assets/292.jpg" width="200" height="200" align="middle" />  </p>
+<p align="center">Class 292</p>
+
+<p align="center">
+<img src="https://github.com/crypto-code/BigGAN-Pretrained/blob/master/assets/972.jpg" width="200" height="200"" align="middle" />  </p>
+<p align="center">Class 972</p>
+                 
+<p align="center">
+<img src="https://github.com/crypto-code/BigGAN-Pretrained/blob/master/assets/992.jpg" width="200" height="200"" align="middle" />  </p>
+<p align="center">Class 992</p>
+
 
 # G00D LUCK
 
