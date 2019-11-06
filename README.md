@@ -54,19 +54,19 @@ The Valid parameters are:
 ## Examples
 <p align="center">
 <img src="https://github.com/crypto-code/BigGAN-Pretrained/blob/master/assets/156.jpg" width="400" height="400" align="middle"/>  </p>
-<p align="center"><\b>Class 156<\b></p>
+<p align="center"><b>Class 156</b></p>
 
 <p align="center">
-<img src="https://github.com/crypto-code/BigGAN-Pretrained/blob/master/assets/292.jpg" width="200" height="400" align="middle"/>  </p>
-<p align="center"><b>Class 292<\b></p>
+<img src="https://github.com/crypto-code/BigGAN-Pretrained/blob/master/assets/292.jpg" width="400" height="400" align="middle"/>  </p>
+<p align="center"><b>Class 292</b></p>
 
 <p align="center">
 <img src="https://github.com/crypto-code/BigGAN-Pretrained/blob/master/assets/972.jpg" width="400" height="400" align="middle"/>  </p>
-<p align="center"><b>Class 972<\b></p>
+<p align="center"><b>Class 972</b></p>
                  
 <p align="center">
 <img src="https://github.com/crypto-code/BigGAN-Pretrained/blob/master/assets/992.jpg" width="400" height="400" align="middle"/>  </p>
-<p align="center"><b>Class 992<\b></p>
+<p align="center"><b>Class 992</b></p>
 
 
 # G00D LUCK
