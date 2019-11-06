@@ -53,19 +53,19 @@ The Valid parameters are:
 
 ## Examples
 <p align="center">
-<img src="https://github.com/crypto-code/BigGAN-Pretrained/blob/master/assets/156.jpg" width="200" height="200" align="middle" />  </p>
+<img src="https://github.com/crypto-code/BigGAN-Pretrained/blob/master/assets/156.jpg" width="400" height="400" align="left" />  </p>
 <p align="center">Class 156</p>
 
 <p align="center">
-<img src="https://github.com/crypto-code/BigGAN-Pretrained/blob/master/assets/292.jpg" width="200" height="200" align="middle" />  </p>
+<img src="https://github.com/crypto-code/BigGAN-Pretrained/blob/master/assets/292.jpg" width="200" height="400" align="right" />  </p>
 <p align="center">Class 292</p>
 
 <p align="center">
-<img src="https://github.com/crypto-code/BigGAN-Pretrained/blob/master/assets/972.jpg" width="200" height="200"" align="middle" />  </p>
+<img src="https://github.com/crypto-code/BigGAN-Pretrained/blob/master/assets/972.jpg" width="400" height="400"" align="left" />  </p>
 <p align="center">Class 972</p>
                  
 <p align="center">
-<img src="https://github.com/crypto-code/BigGAN-Pretrained/blob/master/assets/992.jpg" width="200" height="200"" align="middle" />  </p>
+<img src="https://github.com/crypto-code/BigGAN-Pretrained/blob/master/assets/992.jpg" width="400" height="400"" align="right" />  </p>
 <p align="center">Class 992</p>
 
 
